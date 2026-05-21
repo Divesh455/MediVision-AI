@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+joblib
+pandas
+scikit-learn==1.8.0
+langchain
+langchain-core
+langchain-google-genai
