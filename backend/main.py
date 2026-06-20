@@ -1,5 +1,5 @@
 """
-FastAPI entrypoint for MediVision AI.
+FastAPI entrypoint for MediAI.
 
 Run this from the project root:
     uvicorn backend.main:app --reload
